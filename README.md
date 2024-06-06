@@ -1,0 +1,1 @@
+# openwrt-sdk-ramips-mt7621-x86_64
